@@ -8,6 +8,7 @@
     <h1>TheWelcome</h1>
     </div>
   </main>
+  <footer>plus</footer>
 </template>
 <style>
 @media (min-width: 1024px) {
