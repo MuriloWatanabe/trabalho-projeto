@@ -81,7 +81,7 @@
         <div class="card-body">
           <h5 class="card-title">Disney World(EUA)</h5>
           <p class="card-text">
-            6 dias em Orlando, com passagem de ida e volta, estádia em a 300
+            6 dias na Disney World, com passagem de ida e volta, estádia em a 300
             metros do parque, almoço e guia turistico inclusos.
             <br />
             <b>Por apenas: R$2899,99</b>
