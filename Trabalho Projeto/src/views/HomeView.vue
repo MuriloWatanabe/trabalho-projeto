@@ -99,7 +99,7 @@
           <h5 class="card-title">Paris(França)</h5>
           <p class="card-text">
             4 dias na cidade da luz, com passagem de ida e volta, estádia em
-            pousada a 800 metros do centro, almoço e guia turistico inclusos.
+            pousada a 800 metros da Torre Eiffel, almoço e guia turistico inclusos.
             <br />
             <b>Por apenas: R$2250,99</b>
           </p>
