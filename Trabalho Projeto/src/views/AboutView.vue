@@ -1,5 +1,5 @@
 <template>
-  <div class="carossel">
+  <div class="titulosec">
    <h1>Titulo</h1>
   </div>
 </template>
@@ -13,7 +13,6 @@
     align-items: center;
   }
 }
-h1{
-  text-align: center;
-}
+.titulosec{text-align: center}
+
 </style>
